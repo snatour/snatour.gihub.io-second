@@ -1,0 +1,26 @@
+<div style="width: 100%; clear: both;">
+    <div class="enhanceable_content tabs ui-tabs-minimal" style="margin: 10px 0px 70px 0px;">
+        <ul style="border: none;">
+            <ul style="border: none;">
+                <li>
+                    <p>&nbsp;</p>
+                </li>
+            </ul>
+        </ul>
+        <h3 style="font-size: 16px; width: 300px; float: left; margin: 0;">Show accessible text version of this image</h3>
+        <span style="display: block;">
+            <span class="element_toggler btn btn-primary" role="button" aria-controls="attendance2" aria-label="Toggler toggle list visibility" aria-expanded="false"><i class="icon-arrow-open-down icon-Line" style="margin: auto; color: #ffffff; margin-top: 5px; margin-left: 20px;"></i> </span>
+        </span>
+        <div class="visible-desktop visible-tablet" style="text-align: left; display: none; padding-bottom: 40px;">
+            <ul id="attendance2" style="list-style: none; display: none; margin: 30px 50px 0px 50px;">
+                <li>
+                    <p style="margin-top: 0px;">This example of a search screen contains three lines.</p>
+                    <p>The first line shows that the 'everything' option has been chosen, applying the search across all possible locations for relevant content.</p>
+                    <p>The second line displays 'any field' that 'contains' 'online gaming addiction'. So, the keywords '"'online gaming addiction' are applied across all possible search fields. </p>
+                    <p>The third line shows that the 'and' boolean operator is used to include title information containing the words 'literature review'.</p>
+
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
